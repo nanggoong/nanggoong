@@ -83,3 +83,5 @@
   <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.png" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 6">
 </div>
 
+[동구라미 서비스 소개 비디오 보기](https://github.com/nanggoong/nanggoong/blob/plog-explain/KakaoTalk_20240928_215519990.mp4)
+
