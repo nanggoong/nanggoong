@@ -53,7 +53,10 @@
 </div>
 
 # 동구라미🤗
-
+- 수원대학교 동아리 관리 서비스
+- 모바일, 웹(동아리 회장, 운영진) 서비스
+- 동아리 회원 관리를 간편하게
+- 동아리 모집 정보와 지원을 한곳에서
 <div style="border: 2px solid black; padding: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/nanggoong/nanggoong/53b0f7a4cd94bc00a53260ccec84b65a527aa3de/%EB%8F%99%EA%B5%AC%EB%9D%BC%EB%AF%B8%20%EC%84%A4%EB%AA%85/KakaoTalk_20250110_102442501.jpg" style="width: 48%; margin-bottom: 10px;" alt="Image 1">
     <img src="https://raw.githubusercontent.com/nanggoong/nanggoong/53b0f7a4cd94bc00a53260ccec84b65a527aa3de/%EB%8F%99%EA%B5%AC%EB%9D%BC%EB%AF%B8%20%EC%84%A4%EB%AA%85/KakaoTalk_20250110_102442501_08.jpg" style="width: 48%; margin-bottom: 10px;" alt="Image 9">
@@ -67,8 +70,13 @@
 </div>
 
 
-# PLOG👟
-
+# PLOG👟 K-해커톤 최우수상
+- 플로깅 기록 관리 서비스
+- 플로깅 기록을 손쉽게 도와주고 지속적으로 도와주는 서비스
+- 사용자의 실시간 위치 추적 및 지도 그리기
+- 플로깅 시작 지점과 마침 지점의 위치 정보 반환
+- 타 사용자들의 루트로 플로깅 활동 가능
+- 워치를 통해 핸드폰 없이도 간편하게
 <div style="border: 2px solid black; padding: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 1">
   <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 2">
