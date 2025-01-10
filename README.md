@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 안녕하세요!👋
 <!-- 타이틀 부분 -->
 <div align="center">
   <h1><b>Namgoong's Github</b></h1>
