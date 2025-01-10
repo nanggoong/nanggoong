@@ -51,3 +51,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nanggoong&show_icons=true&theme=radical" alt="Namgoong's GitHub stats" />
 </div>
+
+# 동구라미
+
+<div style="border: 2px solid black; padding: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 1">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501_01.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 2">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501_02.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 3">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501_03.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 4">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501_04.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 5">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501_05.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 6">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501_06.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 7">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501_07.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 8">
+  <img src="동구라미%20설명/KakaoTalk_20250110_102442501_08.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 9">
+</div>
+
+
