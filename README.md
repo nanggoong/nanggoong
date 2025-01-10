@@ -94,3 +94,8 @@
 
 [동구라미 서비스 소개 비디오 보기](https://github.com/nanggoong/nanggoong/blob/plog-explain/KakaoTalk_20240928_215519990.mp4)
 
+# Suchat💬
+- 수원대학교 랜덤 채팅 어플
+- 수원대학교 인증을 받은 사람들만 가입 가능
+- 랜덤 채팅으로 재미 찾기
+- 자바 스프링 스프링부트 JPA aws mysql
