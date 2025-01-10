@@ -66,3 +66,20 @@
   <img src="https://raw.githubusercontent.com/nanggoong/nanggoong/53b0f7a4cd94bc00a53260ccec84b65a527aa3de/%EB%8F%99%EA%B5%AC%EB%9D%BC%EB%AF%B8%20%EC%84%A4%EB%AA%85/KakaoTalk_20250110_102442501_08.jpg" style="width: 30%; margin-bottom: 10px;" alt="Image 9">
 </div>
 
+# PLOG 설명
+
+<div style="border: 2px solid black; padding: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 1">
+  <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 2">
+</div>
+
+<div style="border: 2px solid black; padding: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.PNG" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 3">
+  <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.PNG" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 4">
+</div>
+
+<div style="border: 2px solid black; padding: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.png" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 5">
+  <img src="https://github.com/nanggoong/nanggoong/raw/plog-explain/plog%20explain/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.png" style="width: 48%; margin-bottom: 10px;" alt="슬라이드 6">
+</div>
+
