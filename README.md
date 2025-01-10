@@ -4,11 +4,6 @@
   <h1><b>Namgoong's Github</b></h1>
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanggoong&show_icons=true&theme=radical" alt="Namgoong's GitHub stats" />
-</div>
-
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -26,16 +21,6 @@
 </div>
 
 <br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/planning-3498DB.svg?style=for-the-badge&logo=trello&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/ui/ux-8E44AD.svg?style=for-the-badge&logo=adobe&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -46,9 +31,23 @@
 
 <br>
 
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/planning-3498DB.svg?style=for-the-badge&logo=trello&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ui/ux-8E44AD.svg?style=for-the-badge&logo=adobe&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:cookie_31@naver.com">
     <img src="https://img.shields.io/badge/cookie_31@naver.com-03C75A?style=for-the-badge&logo=niconico&logoColor=white" />&nbsp
   </a>
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanggoong&show_icons=true&theme=radical" alt="Namgoong's GitHub stats" />
 </div>
