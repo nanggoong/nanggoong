@@ -4,6 +4,11 @@
   <h1><b>Namgoong's Github</b></h1>
 </div>
 
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanggoong&show_icons=true&theme=radical" alt="Namgoong's GitHub stats" />
+</div>
+
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -36,6 +41,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/miro-050038.svg?style=for-the-badge&logo=miro&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
 </div>
 
 <br>
